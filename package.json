@@ -1,0 +1,23 @@
+{
+  "name": "sukmi-first-module",
+  "version": "1.0.0",
+  "description": "Not first module",
+  "main": "geometry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slledru/sukmi-first-module.git"
+  },
+  "keywords": [],
+  "author": "Sukmi Ledru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slledru/sukmi-first-module/issues"
+  },
+  "homepage": "https://github.com/slledru/sukmi-first-module#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
