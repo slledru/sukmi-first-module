@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/slledru/sukmi-first-module#readme",
   "dependencies": {
-    "npm": "^5.7.1"
+    "chalk": "^2.3.2"
   }
 }
