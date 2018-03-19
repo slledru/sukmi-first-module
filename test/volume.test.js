@@ -1,5 +1,5 @@
 const { expect } = require('chai')
-const { torusVolume, sphereVolume } = require('./volume') // Destructuring
+const { torusVolume, sphereVolume } = require('../src/volume') // Destructuring
 
 describe('volume tests', function() {
   it('calculate sphere volume correctly', function() {
